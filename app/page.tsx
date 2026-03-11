@@ -190,7 +190,7 @@ function Nav() {
               alt="Efficientia logo"
               width={56}
               height={56}
-              className="h-8 w-8 object-contain"
+              className="h-8 w-8 p-3 object-contain"
               priority
             />
 
